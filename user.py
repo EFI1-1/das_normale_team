@@ -1,5 +1,5 @@
 class User:
-    def __init(self, pin: str, balance: float = 0.0):
+    def __init__(self, pin: str, balance: float = 0.0):
         self.pin = pin
         self.balance = balance
 

@@ -1,6 +1,7 @@
 from user import User
 
 class Bank:
+
     def __init__(self):
         self.users = {
             "1234":User("1234", 500.0),
